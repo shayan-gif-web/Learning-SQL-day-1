@@ -1,5 +1,5 @@
 # day 1 learning 
-Basic select
+Basic select,
 filter, 
 numeric filter,
 multiple conditions, 
